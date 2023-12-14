@@ -4,7 +4,7 @@
 - **Name:** Collins Kimani Murigi
 - **Registration Number:** SCT221-0918/2021
 
-## Assignment Details
+## Assignment Questions
 
 i. **Object Modeling Techniques (OMT)**
 Object Modeling Techniques (OMT) is a methodology for visualizing and designing software systems using object-oriented concepts. It involves techniques for modeling systems, such as object diagrams, class diagrams, and other UML-based representations.
